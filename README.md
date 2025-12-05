@@ -1,6 +1,6 @@
 # Rakesh | AIML • Data Science • Agentic AI • AI Product Analyst
 
-Welcome to my professional GitHub profile!
+Welcome to my GitHub profile!
 
 ---
 
